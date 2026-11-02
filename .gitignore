@@ -1,0 +1,3 @@
+# Confidential business data + analysis outputs — never commit these.
+# (ERP Sales Picking List exports, parsed datasets, summary tables and charts.)
+sales_report/
